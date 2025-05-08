@@ -10,6 +10,6 @@ Abstract: Loss functions are at the heart of deep learning, shaping how models l
 
 Medium article link: https://medium.com/@vikranth.jakamukala/loss-functions-in-deep-learning-a-comprehensive-review-939fadcb908c
 
-slide deck: 
+slide deck: https://docs.google.com/presentation/d/1TIjYOpTIANFV1Mq_Pb_nfXXxtnxVehJFRvgd7Ai4N1M/edit?usp=sharing
 
 presentation video: 
