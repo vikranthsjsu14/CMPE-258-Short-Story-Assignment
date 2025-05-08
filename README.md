@@ -12,4 +12,4 @@ Medium article link: https://medium.com/@vikranth.jakamukala/loss-functions-in-d
 
 slide deck: https://docs.google.com/presentation/d/1TIjYOpTIANFV1Mq_Pb_nfXXxtnxVehJFRvgd7Ai4N1M/edit?usp=sharing
 
-presentation video: 
+presentation video: https://youtu.be/_hZ3HxekSCA
